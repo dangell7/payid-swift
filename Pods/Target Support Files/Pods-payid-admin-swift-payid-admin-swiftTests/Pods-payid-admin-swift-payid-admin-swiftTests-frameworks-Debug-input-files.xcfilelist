@@ -1,0 +1,16 @@
+${PODS_ROOT}/Target Support Files/Pods-payid-admin-swift-payid-admin-swiftTests/Pods-payid-admin-swift-payid-admin-swiftTests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/BigInt/BigInt.framework
+${BUILT_PRODUCTS_DIR}/CNIOAtomics/CNIOAtomics.framework
+${BUILT_PRODUCTS_DIR}/CNIODarwin/CNIODarwin.framework
+${BUILT_PRODUCTS_DIR}/CNIOLinux/CNIOLinux.framework
+${BUILT_PRODUCTS_DIR}/CNIOSHA1/CNIOSHA1.framework
+${BUILT_PRODUCTS_DIR}/CryptoSwift/CryptoSwift.framework
+${BUILT_PRODUCTS_DIR}/JOSESwift/JOSESwift.framework
+${BUILT_PRODUCTS_DIR}/PromiseKit/PromiseKit.framework
+${BUILT_PRODUCTS_DIR}/SipHash/SipHash.framework
+${BUILT_PRODUCTS_DIR}/Starscream/Starscream.framework
+${BUILT_PRODUCTS_DIR}/SwiftNIO/NIO.framework
+${BUILT_PRODUCTS_DIR}/SwiftNIOConcurrencyHelpers/NIOConcurrencyHelpers.framework
+${BUILT_PRODUCTS_DIR}/secp256k1.c/secp256k1.framework
+${BUILT_PRODUCTS_DIR}/secp256k1.swift/secp256k1.framework
+${BUILT_PRODUCTS_DIR}/web3.swift.pod/web3swift.framework

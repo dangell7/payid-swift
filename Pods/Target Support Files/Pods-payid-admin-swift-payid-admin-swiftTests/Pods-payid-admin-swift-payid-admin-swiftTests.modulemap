@@ -1,0 +1,6 @@
+framework module Pods_payid_admin_swift_payid_admin_swiftTests {
+  umbrella header "Pods-payid-admin-swift-payid-admin-swiftTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
